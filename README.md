@@ -10,6 +10,8 @@ When I finally knew how to combine these three things and use them effectively, 
 
 I also have a bit of foundation in mathematics, mainly in calculus and linear algebra.
 
+Finally, this GitHub account is new (i.e., recently created) as you can see from the contribution activities. I look forward to interact with more people.
+
 ### My Journey So Far
 
 My journey into programming started a few years ago when I wrote my first lines of code in Python.
