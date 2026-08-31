@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Curious about mathematics, physics, and computer science.</strong><br />
-  I am an 8th grader from Shanghai who enjoys building projects, studying fundamentals, and connecting ideas across disciplines.
+  I am an 9th grader from Shanghai who enjoys building projects, studying fundamentals, and connecting ideas across disciplines.
 </p>
 
 <p align="center">
